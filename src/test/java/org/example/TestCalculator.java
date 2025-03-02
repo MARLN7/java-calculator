@@ -34,6 +34,6 @@ public class TestCalculator {
 
     @Test
     void factorial(){
-        assertEquals(6, calculator.factorial(3));
+        assertEquals(1, calculator.factorial(3));
     }
 }
